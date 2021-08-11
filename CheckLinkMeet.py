@@ -15,6 +15,6 @@ def check_link_meet(link_user):
 	print(polished_link)
 
 
-get_code_link_google_meet = str(input('Your link here: '))
+get_code_link_meet = str(input('Your link here: '))
 
-check_link_meet(get_code_link_google_meet)	
+check_link_meet(get_code_link_meet)	
