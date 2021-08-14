@@ -1,6 +1,3 @@
-#coding:UTF-8
-#Beginner Calculator with Tkinter - Mateus Páscoa
-
 from tkinter import Tk, Button, Label, StringVar, Entry, Frame
 
 #Functions
